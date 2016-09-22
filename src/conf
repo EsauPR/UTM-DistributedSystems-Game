@@ -1,0 +1,15 @@
+4
+192.168.43.50 - 3
+192.168.43.134 - 2
+192.168.43.194 - 0
+192.168.43.67 - 1
+
+
+
+#####################################################################################################
+#													                                                #
+#   El primer número indica el numero de IP's. 		 												#
+#	La primer IP debe ser del servidor local seguida por su identificador separados por un guión	#
+#	Las siguientes son de los servidores externos y sus identificadores correspondientes			#
+#													 												#
+#####################################################################################################

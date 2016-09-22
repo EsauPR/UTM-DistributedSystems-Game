@@ -1,0 +1,47 @@
+Numero de TEMAS : 2
+
+TEMA : Planetas
+Num_Pal : 9
+	
+	1 : MERCURIO
+		Tip : Es el planeta más pequeño del sistema solar
+	2 : VENUS
+		Tip : Los romanos le pusieron este nombre a su Diosa del Amor
+	3 : TIERRA
+		Tip : Le llaman el planeta azul
+	4 : MARTE
+		Tip : Le llaman el planeta rojo
+	5 : JUPITER
+		Tip : Es el planeta más grande del sistema solar
+	6 : SATURNO
+		Tip : Es muy conocido por sus bellos anillos
+	7 : URANO
+		Tip : Es el tercer planeta más grande después de Júpiter y Saturno
+	8 : NEPTUNO
+		Tip : Un personaje con Tridente en la caricatura de Bob Esponja tiene su mismo nombre
+	9 : PLUTON
+		Tip : Es el planeta más alejado del sol
+
+TEMA : Animales Domésticos y de Granja
+Num_pal : 10
+	1 : Perro
+		Tip: Se caracteriza por su lealtad
+	2 : Gato
+		Tip: A veces comen ratones
+	3 : Burro
+		Tip: Es muy fuerte y resistente para llevar cargas pesadas
+	4 : Gallina
+		Tip: Amenudo comes algo que sale de su colita D:
+	5 : Hamster
+		Tip: Son muy pequeños y les gusta correr en su rueda
+	6 : Vaca
+		Tip: Produce una bebida muy nutritiva
+	7 : Borrego
+		Tip: Muchas chamarras son calientitas gracias a él
+	8 : Caballo
+		Tip: Cuando es libre vive en manadas y corre mucho
+	9 : Perico
+		Tip: Aprenden a repetir palabras	
+	10 : Alpaca
+		Tip: Se dice que el camello es su pariente cercano
+
